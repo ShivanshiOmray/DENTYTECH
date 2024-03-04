@@ -35,10 +35,10 @@ body {
 #nav3 {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   /* background-color: blue; */
   height: 100%;
-  width: 9%;
+  width: 15%;
 }
 
 #nav1 button {
